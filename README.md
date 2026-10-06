@@ -1,1 +1,0 @@
-# smt-3-paradima-pemrograman
